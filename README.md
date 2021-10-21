@@ -1,2 +1,2 @@
-# jussi-live-test_mateus
+# rummikub_placar
 Created with CodeSandbox
